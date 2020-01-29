@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e2a034-171f-4e5d-b23b-2fc8a6f7ed48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5JSILVVjh66NJB6SNCCdKgW0v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="systemy-eksperckie-szachownica" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e2a034-171f-4e5d-b23b-2fc8a6f7ed48" name="Default Changelist" comment="" />
+      <created>1580330020099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580330020099</updated>
+      <workItem from="1580330022739" duration="9843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="272" width="544" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1580338620998">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="272" width="544" height="576" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1580338620998" />
+    <state x="801" y="445" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580330051422">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="801" y="445" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580330051422" />
+    <state x="793" y="426" key="#xdebugger.evaluate" timestamp="1580339980384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="793" y="426" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1580339980384" />
+    <state width="499" height="466" key="DebuggerActiveHint" timestamp="1580336119347">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="499" height="466" key="DebuggerActiveHint/0.27.1920.1053@0.27.1920.1053" timestamp="1580336119347" />
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom" timestamp="1580340343240">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580340343240" />
+    <state width="1874" height="267" key="GridCell.Tab.0.center" timestamp="1580340343240">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580340343240" />
+    <state width="1874" height="267" key="GridCell.Tab.0.left" timestamp="1580340343239">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580340343239" />
+    <state width="1874" height="267" key="GridCell.Tab.0.right" timestamp="1580340343240">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580340343240" />
+    <state width="1874" height="330" key="GridCell.Tab.1.bottom" timestamp="1580339993007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580339993007" />
+    <state width="1874" height="330" key="GridCell.Tab.1.center" timestamp="1580339993007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580339993007" />
+    <state width="1874" height="330" key="GridCell.Tab.1.left" timestamp="1580339993007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580339993007" />
+    <state width="1874" height="330" key="GridCell.Tab.1.right" timestamp="1580339993007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580339993007" />
+    <state x="693" y="308" width="524" height="498" key="extract.method.dialog" timestamp="1580330451007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="308" width="524" height="498" key="extract.method.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580330451007" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1580335843082">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1580335843082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Chessboard.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/systemy_eksperckie_szachownica$Main.ic" NAME="Main Coverage Results" MODIFIED="1580337141862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
